@@ -4,6 +4,7 @@
   O projeto consiste em criar uma página web clone da página de login do Instagram. Foram utilizados HTML e CSS para o desenvolvimento desse projeto.
 </p>
 
+<hr/>
 
 <h4>Execute o projeto</h4>
 <p>
