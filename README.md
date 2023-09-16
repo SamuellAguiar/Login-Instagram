@@ -5,7 +5,7 @@
 </p>
 
 
-<h5>Executar o projeto</h5>
+<h4>Execute o projeto</h4>
 <p>
 Para executar o projeto em sua máquina local, siga estas etapas:
 
