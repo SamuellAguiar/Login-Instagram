@@ -240,14 +240,14 @@ footer #footer {
 }
 
 #dark-button {
-    text-align: right; 
+    text-align: right;
 }
 
 .dark,
 .dark #caixa-form,
 .dark #form-login input,
-.dark #new-user ,
-.dark #new-user p  {
+.dark #new-user,
+.dark #new-user p {
     background-color: #222;
     color: #e6e6e6;
 }
@@ -263,7 +263,7 @@ footer #footer {
     font-size: 14px;
 }
 
-.dark #form-login input[type="submit"]{
+.dark #form-login input[type="submit"] {
     background-color: #334859;
     color: #fff;
     margin-top: 15px;
