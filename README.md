@@ -1,7 +1,7 @@
 <h3 align="center"> Clone Login Instagram </h3>
 
 <p>
-  O projeto consiste em criar uma página web clone da página de login do Instagram. Foram utilizados HTML e CSS para o desenvolvimento desse projeto.
+  O projeto consiste em criar uma página web clone da página de login do Instagram com modo dark. Foram utilizados HTML, CSS e JavaScript(Para o modo dark) para o desenvolvimento desse projeto.
 </p>
 
 <hr/>
