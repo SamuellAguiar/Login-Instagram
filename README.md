@@ -1,4 +1,4 @@
-<h3 align="center"> Clone Login Instagram </h3>
+<h2> Clone Login Instagram </h2>
 
 <p>
   O projeto consiste em criar uma página web clone da página de login do Instagram com modo dark. Foram utilizados HTML, CSS e JavaScript(Para o modo dark) para o desenvolvimento desse projeto.
